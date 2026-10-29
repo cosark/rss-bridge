@@ -279,6 +279,8 @@ Browse http://localhost:3000/
 
 ### Other installation methods
 
+<a href="https://repocloud.io/details/RSS-Bridge/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="32"></a>
+<a href="https://railway.com/deploy/rss-bridge"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="32"></a>
 [![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/sebsauvage/rss-bridge)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 [![Deploy to Cloudron](https://cloudron.io/img/button.svg)](https://www.cloudron.io/store/com.rssbridgeapp.cloudronapp.html)
